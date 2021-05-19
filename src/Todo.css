@@ -1,9 +1,0 @@
-input[id="cb"]:checked ~ p.strikethrough {
-  text-decoration: line-through;
-  color: red;
-}
-
-.containers {
-  display: flex;
-  margin-top: 10px;
-}
